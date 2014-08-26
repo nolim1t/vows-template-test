@@ -1,4 +1,5 @@
 # vows-template-test 
+[![Build Status](https://travis-ci.org/nolim1t/vows-template-test.svg?branch=master)](https://travis-ci.org/nolim1t/vows-template-test)
 
 ## What
 This is a template for doing unit testing, and can be included in any project.
