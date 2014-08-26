@@ -1,6 +1,6 @@
 var vows = require('vows'), assert = require('assert');
 
-vows.describe('sample test').addBatch({
+vows.describe('Another test to demonstrate separation').addBatch({
     'Subtraction functionality': {
         topic: function() { return 2-1 },
         'works properly': function(topic) {
